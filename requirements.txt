@@ -1,0 +1,10 @@
+# Packages used by the analysis scripts.
+# numpy, pandas, scipy, matplotlib are needed for the main pipeline and SLIM.
+# nibabel and nilearn are only needed for roi_visualization.py (the reference
+# brain renders); the demo pipeline runs fine without them.
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.15.3
+matplotlib==3.10.8
+nibabel==5.3.2
+nilearn==0.10.4

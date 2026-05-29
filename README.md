@@ -73,11 +73,11 @@ are only needed for `roi_visualization.py`.
 
 ## About the data
 
-I cannot share the real participant data. It is human neuroimaging and
+The current dataset contains human neuroimaging and
 behavioral data and it is covered by data-use restrictions and participant
 consent that do not allow public release.
 
-So everything in `data_demo/` is **synthetic**. I generated it from random
+So everything in `data_demo/` is **synthetic**. is generated it from random
 noise with small condition offsets, using fake subject IDs (`sub-01` through
 `sub-23`). It has the same column names, condition labels, and ROI columns as
 the real input files, and it exists for two reasons only: to show you exactly

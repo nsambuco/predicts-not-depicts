@@ -1,8 +1,6 @@
-# MRIeat: striatal reward signals during food cues and outcomes
+**Paper:** What a stimulus predicts, not what it depicts, determines striatal reward signals<img width="468" height="30" alt="image" src="https://github.com/user-attachments/assets/27c706ac-c391-48ad-a07e-5905682ff321" />
 
-**Paper:** Striatal reward signals during food anticipation and consumption (working title; full title and reference to be added on publication).
-
-**Authors:** Nicola Sambuco and colleagues.
+**Authors:** Nicola Sambuco and Francesco Versace.
 
 ## What this is
 

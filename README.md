@@ -1,10 +1,12 @@
-**Paper:** What a stimulus predicts, not what it depicts, determines striatal reward signals<img width="468" height="30" alt="image" src="https://github.com/user-attachments/assets/27c706ac-c391-48ad-a07e-5905682ff321" />
+**Paper:** What a stimulus predicts, not what it depicts, determines striatal reward signals
 
 **Authors:** Nicola Sambuco and Francesco Versace.
 
+**Preprint:** https://www.biorxiv.org/content/10.64898/2026.05.10.724107v1
+
 ## What this is
 
-This repo holds the analysis code for the MRIeat study. In the experiment,
+This repo holds the analysis code for the above manuscript. In the experiment,
 participants viewed pictures (pleasant, unpleasant, neutral, and food cues) while
 they were scanned, and on food trials they decided whether to accept a juice
 outcome. I was interested in how reward-related regions (striatum, vmPFC,
